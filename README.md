@@ -23,3 +23,6 @@ This project is a classic implementation of the iconic Space Invaders game using
 - Moving enemy UFOs
 - Bullet firing mechanism
 - Scoring system
+
+
+Parent repo: https://github.com/likhithkp/SpaceInvaders
