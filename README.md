@@ -10,7 +10,6 @@ This is a simple Space Invaders game built with Python and Pygame.
 - [How to Play](#how-to-play)
 - [Controls](#controls)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -23,3 +22,6 @@ This project is a classic implementation of the iconic Space Invaders game using
 - Moving enemy UFOs
 - Bullet firing mechanism
 - Scoring system
+
+
+Parent repo: https://github.com/likhithkp/SpaceInvaders
